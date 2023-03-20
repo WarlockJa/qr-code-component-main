@@ -23,8 +23,8 @@ https://imgur.com/P1Rf721
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here]([https://your-solution-url.com](https://github.com/WarlockJa/qr-code-component-main))
+- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://qr-code-frontend-mentor-nine.vercel.app/))
 
 ## My process
 
