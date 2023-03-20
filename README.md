@@ -23,8 +23,8 @@ https://imgur.com/P1Rf721
 
 ### Links
 
-- Solution URL: [Add solution URL here]([https://your-solution-url.com](https://github.com/WarlockJa/qr-code-component-main))
-- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://qr-code-frontend-mentor-nine.vercel.app/))
+- Solution URL: https://github.com/WarlockJa/qr-code-component-main
+- Live Site URL: https://qr-code-frontend-mentor-nine.vercel.app/
 
 ## My process
 
@@ -40,5 +40,5 @@ Further development for this project may include export of the tile design for o
 
 ## Author
 
-- Website - [Add your name here](https://warlockja.ru)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - https://warlockja.ru
+- Frontend Mentor - https://www.frontendmentor.io/profile/WarlockJa
